@@ -22,6 +22,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 ## 📊 GitHub Stats
 
 ![Koustav41's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koustav41&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav41&layout=compact&theme=radical&langs_count=10&hide_title=false&custom_title=Programming%20Skills%20in%20My%20Projects)
+
 
 ## 🌐 Connect With Me
 
