@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ## 💼 About Me
 
-- 👨‍💻 **Profession:** Student
+- 👨‍💻 **Profession:** B.tech CSE(DS) Student
 - 🛠️ **Top Skills:** 
   - 🐍 Python
   - 🌐 HTML
