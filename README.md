@@ -29,7 +29,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/koustav-mukherjee-40554b32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🐦 [Linktree](https://linktr.ee/Koustav10?utm_source=linktree_admin_share)
-- 🌍 [Personal Website/Portfolio](#)
+- 🌍 [Personal Website/Portfolio](https://neon.zapfolio.in/koustav)
 - ✉️ [Email](mkoustav03@gmail.com)
 
 ---
