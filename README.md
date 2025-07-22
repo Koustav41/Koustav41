@@ -54,7 +54,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
   <a href="https://linktr.ee/Koustav10?utm_source=linktree_admin_share">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" height="36"/>
   </a>
-  <a href="#">
+  <a href="https://neon.zapfolio.in/koustav">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website" height="36"/>
   </a>
   <a href="mailto:mkoustav03@gmail.com">
