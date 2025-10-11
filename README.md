@@ -29,7 +29,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 - 🚩 [**Shopping-website**](https://github.com/Koustav41/Shopping-website)  
   <span style="font-size:1.1em;">This is an online gadgets shop website where you can buy any gadgets.</span>
-- [**PM-Internship- Recommendation-website**](https://github.com/Koustav41/PM-Internship-scheme-website):
+- 🚩[**PM-Internship- Recommendation-website**](https://github.com/Koustav41/PM-Internship-scheme-website):
     <span style="font-size:1.1em;"> Empowering interns with streamlined digital experiences.</span>
 - 🚩 [**Qr-code-generator-project**](https://github.com/Koustav41/Qr-code-generator-project)  
   <span style="font-size:1.1em;">Qr code generator website project built using HTML.</span>
