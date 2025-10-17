@@ -46,6 +46,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 </p>
 
 ---
+[![An image of @koustav41's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koustav41)](https://holopin.io/@koustav41)
 
 ## <span style="font-size:2em;">🌐 Connect With Me</span>
 
