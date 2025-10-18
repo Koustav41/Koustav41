@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ## <span style="font-size:2em;">💼 About Me</span>
 
-- 👨‍💻 **Profession:** <span style="font-size:1.2em;">Student</span>
+- 👨‍💻 **Profession:** <span style="font-size:1.2em;">B.Tech student</span>
 - 🛠️ **Top Skills:**  
   <span style="font-size:1.1em;">🐍 Python &nbsp; 🌐 HTML &nbsp; 🎨 CSS &nbsp; ⚡ JavaScript</span>
 - 🌱 **Currently Learning:** <span style="font-size:1.1em;">DSA</span>
