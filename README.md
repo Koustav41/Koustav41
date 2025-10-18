@@ -1,4 +1,6 @@
 ![17607329889776462698050149966644](https://github.com/user-attachments/assets/0d3f571f-a04a-47ce-b111-060091d8da9a)
+![17607710310691130217117561605141](https://github.com/user-attachments/assets/78468ded-aa8f-42ec-a930-b0dd6778f294)
+
 
 # 👋 Hey there, I'm Koustav! 🚀
 
