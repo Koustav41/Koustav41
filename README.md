@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and explorations in the world of software development. I'm passionate about building impactful software, learning new technologies, and collaborating with the open-source community.
 
 ---
-![17607329889776462698050149966644](https://github.com/user-attachments/assets/0d3f571f-a04a-47ce-b111-060091d8da9a)   ![17607327880526297854160164443732](https://github.com/user-attachments/assets/148db014-0636-403b-b5e2-3060676c8db2)
+![17607329889776462698050149966644](https://github.com/user-attachments/assets/0d3f571f-a04a-47ce-b111-060091d8da9a) 
 
 
 ## <span style="font-size:2em;">💼 About Me</span>
@@ -28,6 +28,8 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 </p>
 
 ---
+![17607327880526297854160164443732](https://github.com/user-attachments/assets/148db014-0636-403b-b5e2-3060676c8db2)
+
 
 ## <span style="font-size:2em;">🌟 Featured Projects</span>
 
