@@ -48,7 +48,10 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Koustav41&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav41&layout=compact&theme=radical&langs_count=10&hide_title=false&custom_title=Programming%20Skills%20in%20My%20Projects" alt="Top Languages" height="180"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav41&layout=compact&theme=radical&langs_count=10" alt="Top Languages" height="180"/>
 </p>
 
 ---
