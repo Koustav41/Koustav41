@@ -44,14 +44,15 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ---
 
-## <span style="font-size:2em;">📊 GitHub Stats</span>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Koustav41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Koustav41&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Koustav41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koustav41&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav41&layout=compact&theme=radical&langs_count=10&border_radius=10" alt="Top Languages"/>
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=Koustav41&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 [![An image of @koustav41's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koustav41)](https://holopin.io/@koustav41)
