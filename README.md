@@ -46,12 +46,11 @@ Welcome to my GitHub profile! Here you'll find a collection of my projects, cont
 
 ## <span style="font-size:2em;">📊 GitHub Stats</span>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Koustav41&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Koustav41&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats"/>
 </p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav41&layout=compact&theme=radical&langs_count=10" alt="Top Languages" height="180"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koustav41&layout=compact&theme=radical&langs_count=10&border_radius=10" alt="Top Languages"/>
 </p>
 
 ---
